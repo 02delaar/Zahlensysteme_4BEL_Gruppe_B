@@ -10,9 +10,11 @@ namespace Zahlensysteme_4BEL_Gruppe_B
     {
         static void Main(string[] args)
         {
-            int Eingabe = 0;
+            int EingabeMenu = 0;
+            string strEingabe = "";
+            string strAusgabe = "";
 
-            while (Eingabe != 9)
+            while (EingabeMenu != 3)
             {
                 Console.WriteLine("Wilkommen im Menü!\n");
                 Console.WriteLine("Wählen sie mit der daneben angegebenen Zahl das Programm:\n");
@@ -21,11 +23,31 @@ namespace Zahlensysteme_4BEL_Gruppe_B
                 Console.WriteLine("3.   Ende\n");
                 Console.Write("Nummer der Berechnung: ");
 
-                while (!Int32.TryParse(Console.ReadLine(), out Eingabe) || Eingabe < 1 || Eingabe > 3)
+                while (!Int32.TryParse(Console.ReadLine(), out EingabeMenu) || EingabeMenu < 1 || EingabeMenu > 3)
                 {
                     Console.ForegroundColor = ConsoleColor.Red;
-                    Console.WriteLine("FEHLER. Bitte wählen sie eine der 7 Varianten aus!");
+                    Console.WriteLine("FEHLER. Bitte wählen sie eine der 3 Varianten aus!");
                     Console.ForegroundColor = ConsoleColor.Gray;
+                }
+
+                Console.WriteLine();
+                Console.WriteLine("------------------------------------------------------------------------------------------");
+                Console.WriteLine();
+
+                //Metode von Isaak:
+
+
+
+                switch (EingabeMenu)
+                {
+                    case 1:
+                        //Methode von Gabbo
+                        break;
+
+                    case 2:
+                        //Methode von Gufi
+                        break;
+
                 }
             }
             Console.ReadKey();
