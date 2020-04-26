@@ -34,7 +34,7 @@ namespace Zahlensysteme_4BEL_Gruppe_B
                 Console.WriteLine("------------------------------------------------------------------------------------------");
                 Console.WriteLine();
 
-                //Metode von Isaak:
+                strEingabe = EingabeBinaerZahl();
 
 
 
@@ -51,6 +51,39 @@ namespace Zahlensysteme_4BEL_Gruppe_B
                 }
             }
             Console.ReadKey();
+
+        }
+
+        static String EingabeBinaerZahl()
+        {
+            bool EingabeRichtig;
+            String BinaerZahl;
+
+            do
+            {
+                EingabeRichtig = true;
+
+                
+                char[] KontrolleBinaerZahl;
+
+
+                Console.Write("Geben Sie eine Binärzahl ein = ");
+                BinaerZahl = Console.ReadLine();
+                KontrolleBinaerZahl = BinaerZahl.ToCharArray();
+
+                for (int i = 0; i < BinaerZahl.Length; i++)
+                {
+                    if (KontrolleBinaerZahl[i] == '0' || KontrolleBinaerZahl[i] == '1') { }
+
+                    else
+                        EingabeRichtig = false;
+                }
+
+            } while (!EingabeRichtig);
+
+            
+
+            return BinaerZahl;
 
         }
     }
