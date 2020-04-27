@@ -45,7 +45,9 @@ namespace Zahlensysteme_4BEL_Gruppe_B
                         break;
 
                     case 2:
-                        //Methode von Gufi
+                         strAusgabe = Convert.ToInt32(strEingabe, 2).ToString("X");
+                        Console.WriteLine("Umgerechnet in Hexadezimal={0}", strAusgabe);
+                        Console.ReadKey();
                         break;
 
                 }
