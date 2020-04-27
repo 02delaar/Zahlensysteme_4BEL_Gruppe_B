@@ -13,3 +13,8 @@ D:\Ordner\4BEL2019_20\Aut\Git\ZahlensystemV1\Zahlensysteme_4BEL_Gruppe_B\Zahlens
 D:\Ordner\4BEL2019_20\Aut\Git\ZahlensystemV1\Zahlensysteme_4BEL_Gruppe_B\Zahlensysteme_4BEL_Gruppe_B\bin\Debug\Zahlensysteme_4BEL_Gruppe_B.exe
 D:\Ordner\4BEL2019_20\Aut\Git\ZahlensystemV1\Zahlensysteme_4BEL_Gruppe_B\Zahlensysteme_4BEL_Gruppe_B\bin\Debug\Zahlensysteme_4BEL_Gruppe_B.pdb
 D:\Ordner\4BEL2019_20\Aut\Git\ZahlensystemV1\Zahlensysteme_4BEL_Gruppe_B\Zahlensysteme_4BEL_Gruppe_B\obj\x86\Debug\Zahlensysteme_4BEL_Gruppe_B.csprojResolveAssemblyReference.cache
+C:\Users\jgufl\Desktop\Collab_GIT\Zahlensysteme_4BEL_Gruppe_B\Zahlensysteme_4BEL_Gruppe_B\obj\x86\Debug\Zahlensysteme_4BEL_Gruppe_B.exe
+C:\Users\jgufl\Desktop\Collab_GIT\Zahlensysteme_4BEL_Gruppe_B\Zahlensysteme_4BEL_Gruppe_B\obj\x86\Debug\Zahlensysteme_4BEL_Gruppe_B.pdb
+C:\Users\jgufl\Desktop\Collab_GIT\Zahlensysteme_4BEL_Gruppe_B\Zahlensysteme_4BEL_Gruppe_B\bin\Debug\Zahlensysteme_4BEL_Gruppe_B.exe
+C:\Users\jgufl\Desktop\Collab_GIT\Zahlensysteme_4BEL_Gruppe_B\Zahlensysteme_4BEL_Gruppe_B\bin\Debug\Zahlensysteme_4BEL_Gruppe_B.pdb
+C:\Users\jgufl\Desktop\Collab_GIT\Zahlensysteme_4BEL_Gruppe_B\Zahlensysteme_4BEL_Gruppe_B\obj\x86\Debug\Zahlensysteme_4BEL_Gruppe_B.csprojResolveAssemblyReference.cache

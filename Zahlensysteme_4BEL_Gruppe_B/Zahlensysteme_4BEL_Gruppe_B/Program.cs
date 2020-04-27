@@ -63,8 +63,12 @@ namespace Zahlensysteme_4BEL_Gruppe_B
                         break;
 
                     case 2:
-                        //Methode von Gufi
-                        break;
+                         strAusgabe = Convert.ToInt32(strEingabe,2).ToString("X");
+                         Console.WriteLine("Hexadezimalwert:{0}", strAusgabe);   
+                        Console.ReadKey();
+                        Console.Clear();
+                         
+                         break;
 
                 }
             }
