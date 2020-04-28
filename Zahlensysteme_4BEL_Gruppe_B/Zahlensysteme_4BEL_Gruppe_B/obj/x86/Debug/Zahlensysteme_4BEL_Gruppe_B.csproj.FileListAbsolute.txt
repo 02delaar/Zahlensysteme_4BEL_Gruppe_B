@@ -18,3 +18,8 @@ C:\Users\jgufl\Desktop\Collab_GIT\Zahlensysteme_4BEL_Gruppe_B\Zahlensysteme_4BEL
 C:\Users\jgufl\Desktop\Collab_GIT\Zahlensysteme_4BEL_Gruppe_B\Zahlensysteme_4BEL_Gruppe_B\bin\Debug\Zahlensysteme_4BEL_Gruppe_B.exe
 C:\Users\jgufl\Desktop\Collab_GIT\Zahlensysteme_4BEL_Gruppe_B\Zahlensysteme_4BEL_Gruppe_B\bin\Debug\Zahlensysteme_4BEL_Gruppe_B.pdb
 C:\Users\jgufl\Desktop\Collab_GIT\Zahlensysteme_4BEL_Gruppe_B\Zahlensysteme_4BEL_Gruppe_B\obj\x86\Debug\Zahlensysteme_4BEL_Gruppe_B.csprojResolveAssemblyReference.cache
+C:\Users\aaron\Desktop\GIT\Zahlensysteme_Gruppe_B\Zahlensysteme_4BEL_Gruppe_B\Zahlensysteme_4BEL_Gruppe_B\obj\x86\Debug\Zahlensysteme_4BEL_Gruppe_B.exe
+C:\Users\aaron\Desktop\GIT\Zahlensysteme_Gruppe_B\Zahlensysteme_4BEL_Gruppe_B\Zahlensysteme_4BEL_Gruppe_B\obj\x86\Debug\Zahlensysteme_4BEL_Gruppe_B.pdb
+C:\Users\aaron\Desktop\GIT\Zahlensysteme_Gruppe_B\Zahlensysteme_4BEL_Gruppe_B\Zahlensysteme_4BEL_Gruppe_B\bin\Debug\Zahlensysteme_4BEL_Gruppe_B.exe
+C:\Users\aaron\Desktop\GIT\Zahlensysteme_Gruppe_B\Zahlensysteme_4BEL_Gruppe_B\Zahlensysteme_4BEL_Gruppe_B\bin\Debug\Zahlensysteme_4BEL_Gruppe_B.pdb
+C:\Users\aaron\Desktop\GIT\Zahlensysteme_Gruppe_B\Zahlensysteme_4BEL_Gruppe_B\Zahlensysteme_4BEL_Gruppe_B\obj\x86\Debug\Zahlensysteme_4BEL_Gruppe_B.csprojResolveAssemblyReference.cache

@@ -14,10 +14,6 @@ namespace Zahlensysteme_4BEL_Gruppe_B
             string strEingabe = "";
             string strAusgabe = "";
 
-            int Eingangszahl = 0;
-            int DecZahl = 0;
-            int merkeDec = 0;
-            int basis = 1;
 
             while (EingabeMenu != 3)
             {
@@ -46,6 +42,11 @@ namespace Zahlensysteme_4BEL_Gruppe_B
                 switch (EingabeMenu)
                 {
                     case 1:
+
+                          int Eingangszahl = 0;
+                          int DecZahl = 0;
+                          int merkeDec = 0;
+                          int basis = 1;
 
                         Eingangszahl = int.Parse(strEingabe);
 
